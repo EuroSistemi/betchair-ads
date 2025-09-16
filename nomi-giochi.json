@@ -1,0 +1,24 @@
+{
+  "mappatura_pulsanti": {
+    "1": {
+      "nome": "Shining Crown",
+      "url": "www.goldbet.it/casino/slot-machine/giochi/shining-crown",
+      "file_pubblicita": "pulsante1-pubblicita.png"
+    },
+    "2": {
+      "nome": "Triple Phoenix Power Combo", 
+      "url": "www.goldbet.it/casino/slot-machine/giochi/triple-phoenix-power-combo",
+      "file_pubblicita": "pulsante2-pubblicita.png"
+    },
+    "3": {
+      "nome": "Alpha Gods Anubis",
+      "url": "www.goldbet.it/casino/slot-machine/giochi/alpha-gods-anubis", 
+      "file_pubblicita": "pulsante3-pubblicita.png"
+    },
+    "4": {
+      "nome": "Royal Secrets",
+      "url": "www.goldbet.it/casino/slot-machine/giochi/royal-secrets",
+      "file_pubblicita": "pulsante4-pubblicita.png"
+    }
+  }
+}
