@@ -1,0 +1,14 @@
+{
+  "versione": "1.0.0",
+  "ultimo_aggiornamento": "2025-09-16",
+  "descrizione": "Pubblicità dinamiche per sistema BetChair",
+  "pubblicita_disponibili": {
+    "generica": "pubblicita-generica.png",
+    "pulsante1": "pulsante1-pubblicita.png",
+    "pulsante2": "pulsante2-pubblicita.png", 
+    "pulsante3": "pulsante3-pubblicita.png",
+    "pulsante4": "pulsante4-pubblicita.png"
+  },
+  "formato_immagini": "PNG",
+  "risoluzione_consigliata": "1920x1080"
+}
