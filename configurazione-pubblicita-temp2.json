@@ -1,0 +1,37 @@
+{
+  "versione": "1.0.0",
+  "ultimo_aggiornamento": "2025-09-16T15:30:00Z",
+  "descrizione": "Configurazione pubblicità dinamiche per sistema BetChair",
+  "pubblicita_generica": "https://raw.githubusercontent.com/EuroSistemi/betchair-ads/main/pubblicita-generica-2.png",
+  "mappatura_pulsanti": {
+    "1": {
+      "nome": "Picante Gold Blitz Fortunes",
+      "url_gioco": "www.goldbet.it/casino/slot-machine/giochi/picante-gold-blitz-fortunes",
+      "url_pubblicita": "https://raw.githubusercontent.com/EuroSistemi/betchair-ads/main/pulsante1-pubblicita-2.png"
+    },
+    "2": {
+      "nome": "Area Link Bank Boss",
+      "url_gioco": "www.goldbet.it/casino/slot-machine/giochi/area-link-bank-boss",
+      "url_pubblicita": "https://raw.githubusercontent.com/EuroSistemi/betchair-ads/main/pulsante2-pubblicita-2.png"
+    },
+    "3": {
+      "nome": "Cash Eruption Rey Picante Del Pollo",
+      "url_gioco": "www.goldbet.it/casino/slot-machine/giochi/cash-eruption-rey-picante-del-pollo",
+      "url_pubblicita": "https://raw.githubusercontent.com/EuroSistemi/betchair-ads/main/pulsante3-pubblicita-2.png"
+    },
+    "4": {
+      "nome": "Gates Of Olympus 1000",
+      "url_gioco": "www.goldbet.it/casino/slot-machine/giochi/gates-of-olympus-1000",
+      "url_pubblicita": "https://raw.githubusercontent.com/EuroSistemi/betchair-ads/main/pulsante4-pubblicita-2.png"
+    }
+  },
+  "fallback": {
+    "schermata_testo": {
+      "titolo": "🎮 Hai scelto il {nome_gioco}",
+      "sottotitolo": "📱 Connetti il dispositivo per continuare",
+      "colore_sfondo": "#1a1a1a",
+      "colore_testo": "#ffffff",
+      "font_size": "48px"
+    }
+  }
+}
